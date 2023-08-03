@@ -1,1 +1,2 @@
-const coolInstructor = "Prof"
+const coolInstructor = "Prof";
+const coolestInstructor = "Morgan";
