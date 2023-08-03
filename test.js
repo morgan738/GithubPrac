@@ -1,0 +1,1 @@
+const coolInstructor = "Prof"
